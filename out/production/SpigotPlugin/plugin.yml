@@ -1,0 +1,5 @@
+name: NavCoord
+version: 0.1
+author: Veikmaster
+main: me.vesuvesu.navcoord.NavCoord
+api-version: 1.15
