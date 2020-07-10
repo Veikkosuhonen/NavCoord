@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SpigotPlugin.iml" filepath="$PROJECT_DIR$/SpigotPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NavCoord.iml" filepath="$PROJECT_DIR$/NavCoord.iml" />
     </modules>
   </component>
 </project>
